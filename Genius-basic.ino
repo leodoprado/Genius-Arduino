@@ -145,7 +145,7 @@ int piscaLed(int portaLed){
 }
 
 void verificaSomDoLed(int portaLed){
-  switch (portaLed) {
+ switch (portaLed) {
   case LED_VERDE:
      tocaSom(200);
      break;
